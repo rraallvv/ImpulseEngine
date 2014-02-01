@@ -159,5 +159,11 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-# Mac crap
+#############
+## Xcode
+#############
+
 .DS_Store
+**xcuserstate*
+**xcshareddata*
+**xcuserdata*
